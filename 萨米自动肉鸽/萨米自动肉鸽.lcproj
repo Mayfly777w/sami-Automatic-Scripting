@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lcproj projname="萨米自动肉鸽" appname="萨米自动肉鸽1.4.2" autorotate="false" autorun="1" autorunscript="0" cputype="2" icon="F:\软件\其他\懒人精灵\script\萨米自动肉鸽\nian.233ac7_00.png" is_acc_mode="0" isdebugapkplugin="0" jmpjdcheck="1" localmode="true" pkgname="com.arknights.mayfly777w.samirogue" pluginapkpath="" rgbmode="false" sel="0" showfloatcontrol="1" showhome="1" targetsize="720x1280" updateurl="" useocr="1" useoldmenu="0" ver="30">
+    <lua entry="Main">
+        <file name="point.lua"/>
+        <file name="level.lua"/>
+        <file name="tools.lua"/>
+        <file name="UI.lua"/>
+        <file name="萨米自动肉鸽.lua"/>
+    </lua>
+    <rc entry="萨米自动肉鸽.rc"/>
+    <ui entry="萨米自动肉鸽.ui">
+        <file name="默认界面.ui"/>
+    </ui>
+    <luae entry="">
+        <file name="armeabi-v7a"/>
+        <file name="x86"/>
+    </luae>
+</lcproj>
